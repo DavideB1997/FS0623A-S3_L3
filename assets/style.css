@@ -1,0 +1,19 @@
+/* JS STUFF */
+.task {
+  text-decoration: line-through;
+}
+
+
+/*main */
+
+
+
+main div {
+  background-color: gray;
+  text-align: center;
+
+  width: 50%;
+
+  margin-right: auto;
+  margin-left: auto;
+}
