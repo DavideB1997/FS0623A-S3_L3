@@ -37,12 +37,7 @@ function creandoContenitore(){
   taskArray.push(contenitoreTask)
 
   latestTask = taskArray[taskArray.length-1]
-
-
-  console.log(ptask)
-  contenitoreText.onclick = completeline(latestTask);
   
-
   padre.appendChild(latestTask)
 }
 
